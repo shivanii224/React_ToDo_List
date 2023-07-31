@@ -3,7 +3,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Server-api
-Run this file first using cd server-api and then type npm start in order to start this first
+open the folder in vscode and go to server-api by cd server-api
+
+## npm init --yes
+run this command in the terminal.This helps in creating package json
+
+## npm i --save json-server
+run this command next to set the server
+
+## npm start
+run this command to host your server
+
+## Todolist-main
+Open new terminal and where you will be in the todolist directory
+
+## npm start
+run this command to start your website
 
 ## Available Scripts
 
